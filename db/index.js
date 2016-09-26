@@ -1,6 +1,6 @@
 //in the db folder as index.js 
 //setting up the node-postgres driver
-var pg = require('pg');
+/*var pg = require('pg');
 var postgresUrl = 'postgres://localhost/newNamedb';
 var client = new pg.Client(postgresUrl);
 
@@ -8,4 +8,4 @@ var client = new pg.Client(postgresUrl);
 client.connect();
 
 // make the client available as a Node module
-module.exports = client; 
+module.exports = client; */
